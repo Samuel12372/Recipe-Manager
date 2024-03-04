@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FoodRecipeManager2": {
+      "commandName": "Project",
+      "commandLineArgs": "sam knowles"
+    }
+  }
+}
